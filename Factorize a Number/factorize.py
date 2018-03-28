@@ -9,10 +9,10 @@ class Factorize(object):
     def factorize(self, n):
         # Solved using recursion. 
         # Base case: If n == 1, return 1, otherwise recursively call factorise with n-1      
-        if n == 1:
-            return n
+        if n == 0 or n == 1:
+            return 1
         else:
             return n * self.factorize(n - 1)
-        
+         
 
       
