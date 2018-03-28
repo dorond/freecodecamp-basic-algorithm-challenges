@@ -1,4 +1,4 @@
-#FreeCodeCamp Basic Algorithm Scripting Challenges
+# FreeCodeCamp Basic Algorithm Scripting Challenges
 
 As part of my journey towards becoming a data scientist, I am learning Python.
 
